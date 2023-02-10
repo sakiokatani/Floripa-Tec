@@ -1,2 +1,2 @@
 # Floripa-Tec
-Exercícios da Floripa Mais Tec em conjunto com a Lab 365 para o curso de Full Stack Developer
+Exercícios do primeiro módulo do Curso de Full Stack Developer do SENAI em conjunto com Floripa Mais TEc e Lab 365.
